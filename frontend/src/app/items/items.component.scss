@@ -1,0 +1,36 @@
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #f7f7f7;
+  border-radius: 8px;
+}
+
+
+.error-card {
+  margin-bottom: 15px;
+  background-color: #ffcccc;
+  color: #d32f2f;
+}
+
+
+mat-form-field {
+  width: 100%;
+}
+
+
+button {
+  margin-top: 10px;
+}
+
+
+mat-list {
+  margin-top: 20px;
+}
+
+.loading-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+}
